@@ -1,3 +1,5 @@
+# Eaglercraft-20w14inf
+
 this is a 1.16 (20w14inf) backport of the 2020 Minecraft joke update. 
 it uses a already existing 1.8.8 base and everything from 20w14inf was ported and tweaked to get a near identical replica of the 20w14inf snapshot.
 while its not exactly 1:1, it comes very close.
